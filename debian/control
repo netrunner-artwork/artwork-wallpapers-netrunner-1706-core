@@ -9,5 +9,6 @@ Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-17.0
 Package: artwork-wallpapers-netrunner-17.06-desktop
 Architecture: all
 Depends: ${misc:Depends}
+Provides: artwork-wallpapers-netrunner-desktop
 Description: artwork for netrunner-desktop 17.06
  This package contains wallpapers for Netrunner Desktop
