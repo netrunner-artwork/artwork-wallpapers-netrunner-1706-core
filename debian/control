@@ -1,14 +1,14 @@
-Source: artwork-wallpapers-netrunner-17.06-desktop
+Source: artwork-wallpapers-netrunner-17.06-core
 Section: misc
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
-Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-17.06-desktop
+Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-17.06-core
 
-Package: artwork-wallpapers-netrunner-17.06-desktop
+Package: artwork-wallpapers-netrunner-17.06-core
 Architecture: all
 Depends: ${misc:Depends}
-Provides: artwork-wallpapers-netrunner-desktop
-Description: artwork for netrunner-desktop 17.06
+Provides: artwork-wallpapers-netrunner-core
+Description: artwork for netrunner-core 17.06
  This package contains wallpapers for Netrunner Desktop
